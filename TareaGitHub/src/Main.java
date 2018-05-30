@@ -4,6 +4,7 @@ public class Main {
 		return a+b;
 	}
 	public String msj() {
+		int b=0;
 		return "Hola Mundo";
 	}
 
